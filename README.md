@@ -3,10 +3,5 @@ A few months ago i decided to take up cycling as a new hobby (to spend some time
 
 
 
+<iframe src='//gifs.com/embed/anim-mO4jDp' frameborder='0' scrolling='no' width='3750px' height='1500px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
-<!-- animation -->
-<figure class="video_container">
-  <video controls="true" repeat="true">
-    <source src="anim.mp4" type="video/mp4">
-  </video>
-</figure>
